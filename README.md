@@ -13,4 +13,6 @@
       (b) pip install pytesseract
 3) For text to audio:
       (a) pip install gtts 
-# Images from the:
+# Images from the project:
+![](Screenshot%20(745).png)
+Main Layout
