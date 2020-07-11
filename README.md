@@ -1,9 +1,9 @@
 # BookWorm
 
 About the platform:
-1)A python developed gui used to develop audiobooks from PDFs.
-2)The audiobooks can be generated once,saved and played whenever required laterwards.
-3)Voice automated searches help the user to clear their doubts.
+1)A python developed gui used to develop audiobooks from PDFs.\n
+2)The audiobooks can be generated once,saved and played whenever required laterwards.\n
+3)Voice automated searches help the user to clear their doubts.\n
 DEPENDENCIES FOR CONVERSIONS:
 1) FOR PDF TO IMAGE:
       (a) Install ghostscript and imagemagick
