@@ -14,7 +14,7 @@
 3) For text to audio:
       (a) pip install gtts 
 # Logo:
-![](Screenshot%20(580).png)
+![](image%20.png)
 # Images from the project:
 ![](Screenshot%20(745).png)
 ||Main Layout||
